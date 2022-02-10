@@ -1,10 +1,28 @@
 ## G2: Low-Fidelity Prototype
-![low-fi](https://media.discordapp.net/attachments/930542558269038652/941454869871620116/Screen_Shot_2022-02-10_at_2.05.28_PM.png)
+![low-fi](https://media.discordapp.net/attachments/930542558269038652/941454869871620116/Screen_Shot_2022-02-10_at_2.05.28_PM.png?width=600&height=450)
 ## Description
 We’ve created a prototype of our application, with there being two main components – profile creation and friend dobbies. The prototypes also show the general layout of the components on the dating platform. This is intended to be a desktop view, so there is more horizontal surface area.
 For the current low-fidelity prototype, the wizardry comes from the development of profiles, which is currently completely manual, and the display of the “dobbies”, where the interface for the friend writing the “dobbies” would be different than that of the prototype. For this prototype, the “dobbies” are being represented by comments inserted on Google Slides. We created fake profiles and “dobbies” to simulate the way they would appear on the real app. 
 
 ## Drawing and Screenshot of the prototype:
+**Browsing mode**
+
+Suggested list of profiles 
+
+![suggested-list](https://media.discordapp.net/attachments/930542558269038652/941459105044906054/Untitled_14.png?width=600&height=450)
+
+Browsing another profile
+
+![browsing](https://media.discordapp.net/attachments/930542558269038652/941459105397239808/Untitled_15.png?width=600&height=450)
+
+Browsing the profile owner's list of friend
+
+![brows-friends](https://media.discordapp.net/attachments/930542558269038652/941459105787281438/Untitled_17.png?width=600&height=450)
+
+**Dobbie mode**
+
+![dobbie mode](https://media.discordapp.net/attachments/930542558269038652/941459164515946557/Screen_Shot_2022-02-10_at_2.22.32_PM.png?width=600&height=450)
+
 
 
 ## Test Findings
