@@ -1,4 +1,4 @@
-## G2: Low-Fidelity Prototype
+## G3: Low-Fidelity Prototype
 ![low-fi](https://media.discordapp.net/attachments/930542558269038652/941454869871620116/Screen_Shot_2022-02-10_at_2.05.28_PM.png?width=600&height=450)
 ## Description
 We’ve created a prototype of our application, with there being two main components – profile creation and friend dobbies. The prototypes also show the general layout of the components on the dating platform. This is intended to be a desktop view, so there is more horizontal surface area.
