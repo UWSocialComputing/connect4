@@ -3,6 +3,9 @@ We are exprimenting new ways to create a transparent and wholesome dating enviro
 
 Meet The Team 💃 👩🏻‍💻:
 
+![image](https://user-images.githubusercontent.com/61256385/155203962-d57c3e71-ade6-4536-8b99-71e245d13ae1.png)
+
+
 **Felicia Yan (she/her)** \
 ![Felicia](https://media.discordapp.net/attachments/930542558269038652/936340729352061008/46704059-5F23-4140-855F-F56D471CAFF1.jpg?width=450&height=450)
 
