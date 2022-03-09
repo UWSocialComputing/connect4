@@ -1,7 +1,9 @@
-# **DOBBIE** \
+# **DOBBIE** 
+
 Dobbie aims to transform the online dating experience by allowing users to build a network with their friends!💜👨‍❤️‍👨 👩‍❤️‍👩 👩‍❤️‍👨\
 We hope to improve the overall online dating experience by introducing offline dating practices to dating apps. We believe that by doing so, we can create a safer and more welcoming dating environment!
-Learn more about our project by watching our video demo [here](https://www.youtube.com/watch?v=IyYSWfh_D8o). \
+Learn more about our project by watching our video demo [here](https://www.youtube.com/watch?v=IyYSWfh_D8o).
+
 
 ## **TRY DOBBIE [HERE](https://github.com/UWSocialComputing/connect4-Project)**.
 
@@ -35,5 +37,5 @@ Meet The Team 💃 👩🏻‍💻:
 ![Simona](https://media.discordapp.net/attachments/930542558269038652/941451361520865280/profile.jpeg?width=450&height=450)
 
 
-Simona is studying both Computer Science and Gender, Women, and Sexuality Studies.
+Simona is studying both Computer Science and Gender, Women, and Sexuality Studies. Her comfort food is Chinese Malatang or hotpot. One of her ongoing projects is to try all flavors of Haagen-dazs icecream.
 
