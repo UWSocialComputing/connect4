@@ -6,13 +6,13 @@ Some functionalities we prototyped via hardcoding were displaying dobbies  on pr
 
 ### Screenshots
 The login screen:
-![image](img/g6_1.png)
+![image](https://cdn.discordapp.com/attachments/941507572299612251/951208538275987566/g6_1.png)
 
 A user profile that someone sees before sending a "like":
-![image](img/g6_2.png)
+![image](https://cdn.discordapp.com/attachments/941507572299612251/951208537864962108/g6_2.png)
 
 The form where users can "Dobbie" their friends:
-![image](img/g6_3.png)
+![image](https://cdn.discordapp.com/attachments/941507572299612251/951208537277747210/g6_3.png)
 
 ### User Test Findings
 First, we learned that although some people wanted a separate “mode” for non-dating users to support friends, it ended up being more intuitive for users to have a clear “dating” mode and “dobbie” mode. Our current implementation has pages for leaving dobbies while in browsing mode, which confused the testers when they switched to dobbie mode and saw the same page.
