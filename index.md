@@ -2,17 +2,21 @@
 
 Dobbie aims to transform the online dating experience by allowing users to build a network with their friends!💜👨‍❤️‍👨 👩‍❤️‍👩 👩‍❤️‍👨\
 We hope to improve the overall online dating experience by introducing offline dating practices to dating apps. We believe that by doing so, we can create a safer and more welcoming dating environment!
-Learn more about our project by watching our video demo [here](https://www.youtube.com/watch?v=IyYSWfh_D8o).
-
 
 ## **TRY DOBBIE [HERE](https://github.com/UWSocialComputing/connect4-Project)**.
 
 ![image](https://user-images.githubusercontent.com/61256385/155203962-d57c3e71-ade6-4536-8b99-71e245d13ae1.png)
 
+## Learn more about our project by watching our video demo [here](https://www.youtube.com/watch?v=IyYSWfh_D8o).
+
+[![youtube thumbnail](https://media.discordapp.net/attachments/930542558269038652/953819611768447166/Screen_Shot_2022-03-16_at_5.58.32_PM.png?width=1646&height=924)](https://www.youtube.com/watch?v=IyYSWfh_D8o)
+
 *DOBBIE is created by students in the CSE 481 Social Computing Capstone class at the UW Allen School of Computer Science & Engineering* \
 ![Paul](http://comotion.uw.edu/wp-content/uploads/2021/03/Logo-Paul-G.-Allen-School-of-Computer-Science-Engineering.jpg?width=450&height=450)
 
-Meet The Team 💃 👩🏻‍💻:
+
+## 
+## Meet The Team 💃 👩🏻‍💻:
 
 
 **Felicia Yan (she/her)** \
